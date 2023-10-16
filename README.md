@@ -1,1 +1,1 @@
-# CS-360_Repo
+# CS-360-Repo
