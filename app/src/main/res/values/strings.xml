@@ -1,0 +1,62 @@
+<resources>
+    <!-- activity_main -->
+    <string name="app_name">Weight Tracker</string>
+    <string name="login_screen_title">Weight Tracker Login</string>
+    <string name="username_hint">Username</string>
+    <string name="username_image_view_description">Username Icon</string>
+    <string name="password_hint">Password</string>
+    <string name="password_image_view_description">Password Icon</string>
+    <string name="login_button_text">Login</string>
+    <string name="register_button_text">Register</string>
+    <string name="login_error_text">User not found! Please register first.</string>
+    <string name="username_taken_error_text">Username already taken!</string>
+    <string name="username_length_error_text">Username must be at least 8 characters.</string>
+    <string name="password_length_error_text">Password must be at least 8 characters.</string>
+    <string name="field_length_error_text">All fields must be at least 8 characters.</string>
+
+    <!-- activity_weight_tracker -->
+    <string name="options_image_button_description">Options</string>
+    <string name="previous_month_image_button_description">Previous Month</string>
+    <string name="current_month_text">Current Month</string>
+    <string name="next_month_image_button_description">Next Month</string>
+    <string name="week_one_cell_text">Week 1</string>
+    <string name="week_two_cell_text">Week 2</string>
+    <string name="week_three_cell_text">Week 3</string>
+    <string name="week_four_cell_text">Week 4</string>
+    <string name="week_five_cell_text">Week 5</string>
+    <string name="day_one_text">Day 1</string>
+    <string name="day_two_text">Day 2</string>
+    <string name="day_three_text">Day 3</string>
+    <string name="day_four_text">Day 4</string>
+    <string name="day_five_text">Day 5</string>
+    <string name="day_six_text">Day 6</string>
+    <string name="day_seven_text">Day 7</string>
+    <string name="clear_week_text">Clear Week</string>
+    <string name="selected_day_weight_text">Weight For Selected Day:</string>
+    <string name="logged_weight_text">Logged Weight</string>
+    <string name="empty_cell_text">----</string>
+    <string name="weight_not_logged">Not Logged</string>
+    <string name="target_goal_weight_text">Target Weight:</string>
+    <string name="current_goal_weight_text">Current Goal Weight</string>
+    <string name="weight_loss_goal_met_toast">Weight Loss Goal Met!</string>
+    <string name="weight_gain_goal_met_toast">Weight Gain Goal Met!</string>
+
+    <!-- activity_log_weight -->
+    <string name="log_weight_text">Log Weight</string>
+    <string name="new_weight_text">New Weight:</string>
+    <string name="enter_weight_hint">Enter Weight</string>
+    <string name="set_weight_button_text">Set Weight</string>
+    <string name="format_error_text">Weight must be non-empty and less than 5 digits.</string>
+
+    <!-- activity_options -->
+    <string name="options_text">Options</string>
+    <string name="allow_sms_button_text">Allow SMS</string>
+    <string name="sms_permission_already_granted_toast">SMS Permission Already Granted</string>
+    <string name="sms_permission_granted_toast">SMS Permission Granted</string>
+    <string name="sms_permission_denied_toast">SMS Permission Denied</string>
+    <string name="goal_type_radio_group_label">Weight Goal Type</string>
+    <string name="loose_weight_text">Loose Weight</string>
+    <string name="gain_weight_text">Gain Weight</string>
+    <string name="new_goal_weight_text">Goal Weight: </string>
+    <string name="goal_weight_format_error_text">Weight must be non-empty and less than 5 digits.</string>
+</resources>
